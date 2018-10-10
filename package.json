@@ -1,0 +1,19 @@
+{
+  "name": "cs5003-group4-practical2",
+  "version": "1.0.0",
+  "description": "A simple end-to-end app combining everything covered so far in CS5003",
+  "author": "CS5003-group4",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.cs.st-andrews.ac.uk/cs5003group-p2-4/CS5003-Group4-Practical2.git"
+  },
+  "license": "ISC"
+}
